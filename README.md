@@ -26,4 +26,3 @@ Hello! I'm a tech enthusiast with an intermediate level of expertise in Data Str
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SANJANAEPARI)  
 
-![Profile views](https://gpvc.arturio.dev/SANJANAEPARI)  
